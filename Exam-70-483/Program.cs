@@ -1,4 +1,8 @@
-﻿using System;
+﻿using Exam_70_483.Value_and_Reference_Type;
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Exam_70_483
 {
@@ -6,7 +10,7 @@ namespace Exam_70_483
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ValueAndReferenceType valueAndReferenceType = new ValueAndReferenceType();
         }
     }
 }

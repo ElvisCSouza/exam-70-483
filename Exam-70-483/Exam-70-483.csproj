@@ -6,4 +6,8 @@
     <RootNamespace>Exam_70_483</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Value_and_Reference_Type\" />
+  </ItemGroup>
+
 </Project>
