@@ -2,7 +2,7 @@
 <html lang='en'>
 <head>
 <meta charset='utf-8' />
-<title>Exam70_483.Benchmark.SingleLineJoin-20200910-120842</title>
+<title>Exam70_483.Benchmark.SingleLineJoin-20200910-122953</title>
 
 <style type="text/css">
 	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
@@ -22,16 +22,16 @@ Intel Core i5-3337U CPU 1.80GHz (Ivy Bridge), 1 CPU, 4 logical and 2 physical co
 <pre><code></code></pre>
 
 <table>
-<thead><tr><th>          Method</th><th>Mean</th><th>Error</th><th>StdDev</th><th>Median</th><th>Rank</th><th>Gen 0</th><th>Gen 1</th><th>Gen 2</th><th>Allocated</th>
+<thead><tr><th>         Method</th><th>Mean</th><th>Error</th><th>StdDev</th><th>Median</th><th>Rank</th><th>Gen 0</th><th>Gen 1</th><th>Gen 2</th><th>Allocated</th>
 </tr>
-</thead><tbody><tr><td>StringBuilderAppend</td><td>108.8 ns</td><td>2.30 ns</td><td>2.56 ns</td><td>108.6 ns</td><td>1</td><td>0.0918</td><td>-</td><td>-</td><td>144 B</td>
-</tr><tr><td>StringJoin</td><td>143.5 ns</td><td>2.93 ns</td><td>4.47 ns</td><td>142.1 ns</td><td>2</td><td>0.0663</td><td>-</td><td>-</td><td>104 B</td>
-</tr><tr><td>Interpolation</td><td>201.3 ns</td><td>6.23 ns</td><td>17.87 ns</td><td>195.9 ns</td><td>3</td><td>0.0863</td><td>-</td><td>-</td><td>136 B</td>
-</tr><tr><td>StringConcatenate</td><td>201.4 ns</td><td>5.27 ns</td><td>14.95 ns</td><td>199.8 ns</td><td>3</td><td>0.0865</td><td>-</td><td>-</td><td>136 B</td>
-</tr><tr><td>PlusOperator</td><td>209.5 ns</td><td>6.44 ns</td><td>18.38 ns</td><td>205.4 ns</td><td>4</td><td>0.0865</td><td>-</td><td>-</td><td>136 B</td>
-</tr><tr><td>PlusOperatorWithResult</td><td>235.4 ns</td><td>3.50 ns</td><td>2.73 ns</td><td>235.1 ns</td><td>5</td><td>0.1223</td><td>-</td><td>-</td><td>192 B</td>
-</tr><tr><td>StringJoinList</td><td>236.6 ns</td><td>4.81 ns</td><td>9.26 ns</td><td>234.0 ns</td><td>5</td><td>0.0505</td><td>-</td><td>-</td><td>80 B</td>
-</tr><tr><td>StringFormat</td><td>434.6 ns</td><td>8.29 ns</td><td>7.35 ns</td><td>437.7 ns</td><td>6</td><td>0.0663</td><td>-</td><td>-</td><td>104 B</td>
+</thead><tbody><tr><td>StringBuilderAppend</td><td>94.93 ns</td><td>1.050 ns</td><td>0.876 ns</td><td>95.13 ns</td><td>1</td><td>0.0918</td><td>-</td><td>-</td><td>144 B</td>
+</tr><tr><td>StringJoin</td><td>126.01 ns</td><td>2.510 ns</td><td>1.960 ns</td><td>126.03 ns</td><td>2</td><td>0.0663</td><td>-</td><td>-</td><td>104 B</td>
+</tr><tr><td>OperadorSomaComResult</td><td>212.21 ns</td><td>2.808 ns</td><td>3.234 ns</td><td>211.83 ns</td><td>3</td><td>0.1223</td><td>-</td><td>-</td><td>192 B</td>
+</tr><tr><td>StringConcat</td><td>217.63 ns</td><td>19.178 ns</td><td>56.545 ns</td><td>183.85 ns</td><td>4</td><td>0.0863</td><td>-</td><td>-</td><td>136 B</td>
+</tr><tr><td>Interpolacao</td><td>260.12 ns</td><td>15.677 ns</td><td>46.223 ns</td><td>267.23 ns</td><td>5</td><td>0.0863</td><td>-</td><td>-</td><td>136 B</td>
+</tr><tr><td>StringJoinList</td><td>262.35 ns</td><td>10.757 ns</td><td>31.548 ns</td><td>261.58 ns</td><td>5</td><td>0.0508</td><td>-</td><td>-</td><td>80 B</td>
+</tr><tr><td>OperdorSoma</td><td>330.23 ns</td><td>6.042 ns</td><td>5.651 ns</td><td>329.05 ns</td><td>6</td><td>0.0863</td><td>-</td><td>-</td><td>136 B</td>
+</tr><tr><td>StringFormat</td><td>388.53 ns</td><td>4.951 ns</td><td>4.631 ns</td><td>389.18 ns</td><td>7</td><td>0.0663</td><td>-</td><td>-</td><td>104 B</td>
 </tr></tbody></table>
 </body>
 </html>

@@ -1,11 +1,14 @@
 ﻿using BenchmarkDotNet.Attributes;
 using BenchmarkDotNet.Order;
-using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Exam70_483.Benchmark
 {
+    /// <summary>
+    /// Link da pesquisa realizada está anexado ao sumário desta classe.
+    /// <seealso cref="https://dotnetcoretutorials.com/2020/02/06/performance-of-string-concatenation-in-c/"/>
+    /// </summary>
     [MemoryDiagnoser]
     [Orderer(SummaryOrderPolicy.FastestToSlowest)]
     [RankColumn]
@@ -27,19 +30,19 @@ namespace Exam70_483.Benchmark
         }
 
         [Benchmark]
-        public string Interpolation()
+        public string Interpolacao()
         {
             return $"{string1} {string2} {string3} {string4} {string5}";
         }
 
         [Benchmark]
-        public string PlusOperator()
+        public string OperdorSoma()
         {
             return string1 + " " + string2 + " " + string3 + " " + string4 + " " + string5;
         }
 
         [Benchmark]
-        public string StringConcatenate()
+        public string StringConcat()
         {
             return string.Concat(string1, " ", string2, " ", string3, " ", string4, " ", string5);
         }
@@ -73,7 +76,7 @@ namespace Exam70_483.Benchmark
         }
 
         [Benchmark]
-        public string PlusOperatorWithResult()
+        public string OperadorSomaComResult()
         {
             var result = string1 + " ";
             result += string2 + " ";
