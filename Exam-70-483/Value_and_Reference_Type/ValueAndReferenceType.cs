@@ -23,10 +23,10 @@ namespace Exam_70_483.Value_and_Reference_Type
         public void ReferenceType()
         {
             List<Pessoa> lista = new List<Pessoa>() { new Pessoa() { Nome = "a" }, new Pessoa() { Nome = "b" } };
-            Console.WriteLine("Pessoa[0]" + lista[0].Nome + " (antes da mudança)");
+            Console.WriteLine("Pessoa[0] " + lista[0].Nome + " (antes da mudança)");
             var item1 = lista.First();
             item1.Nome = "c";
-            Console.WriteLine("Pessoa[0]" + lista[0].Nome + " (depois da mudança)");
+            Console.WriteLine("Pessoa[0] " + lista[0].Nome + " (depois da mudança)");
         }
 
         /// <summary>
@@ -35,10 +35,10 @@ namespace Exam_70_483.Value_and_Reference_Type
         public void ValueType_Struct()
         {
             List<Carro> lista = new List<Carro>() { new Carro() { Nome = "a" }, new Carro() { Nome = "b" } };
-            Console.WriteLine("Pessoa[0]" + lista[0].Nome + " (antes da mudança)");
+            Console.WriteLine("struct Carro[0] " + lista[0].Nome + " (antes da mudança)");
             var item1 = lista.First();
             item1.Nome = "c";
-            Console.WriteLine("Pessoa[0]" + lista[0].Nome + " (depois da mudança)");
+            Console.WriteLine("struct Carro[0] " + lista[0].Nome + " (depois da mudança)");
         }
 
         /// <summary>
@@ -47,10 +47,10 @@ namespace Exam_70_483.Value_and_Reference_Type
         public void ValueType_PrimitiveType()
         {
             List<string> lista = new List<string>() { "a", "b" };
-            Console.WriteLine("lista[0]" + lista[0] + " (antes da mudança)");
+            Console.WriteLine("lista[0] " + lista[0] + " (antes da mudança)");
             var item1 = lista.First();
             item1 = "c";
-            Console.WriteLine("lista[0]" + lista[0] + " (depois da mudança)");
+            Console.WriteLine("lista[0] " + lista[0] + " (depois da mudança)");
         }
     }
 }
