@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\bibos\\.nuget\\packages\\": {},
+    "C:\\Users\\Elvis\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bibos\\Desktop\\Dev\\GitHub\\exam-70-483\\Exam-70-483\\Exam-70-483.csproj",
+      "projectUniqueName": "C:\\Projetos\\CertificacaoC#\\Exam-70-483\\Exam-70-483\\Exam-70-483.csproj",
       "projectName": "Exam-70-483",
-      "projectPath": "C:\\Users\\bibos\\Desktop\\Dev\\GitHub\\exam-70-483\\Exam-70-483\\Exam-70-483.csproj",
-      "packagesPath": "C:\\Users\\bibos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bibos\\Desktop\\Dev\\GitHub\\exam-70-483\\Exam-70-483\\obj\\",
+      "projectPath": "C:\\Projetos\\CertificacaoC#\\Exam-70-483\\Exam-70-483\\Exam-70-483.csproj",
+      "packagesPath": "C:\\Users\\Elvis\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\CertificacaoC#\\Exam-70-483\\Exam-70-483\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\bibos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Elvis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,7 +32,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\bibos\\Desktop\\Dev\\GitHub": {},
+        "D:\\Meus Documentos\\Nugets": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

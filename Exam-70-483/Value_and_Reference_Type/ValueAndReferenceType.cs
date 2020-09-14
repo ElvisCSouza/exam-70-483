@@ -52,5 +52,20 @@ namespace Exam_70_483.Value_and_Reference_Type
             item1 = "c";
             Console.WriteLine("lista[0] " + lista[0] + " (depois da mudança)");
         }
+
+        /// <summary>
+        /// Por 'a' se tratar de um ReferenceType, o mesmo se comporta apenas como um ponteiro que é 
+        /// armazenado na Stack, ao qual tem o endereço de memória na Heap ao qual o valor do dado está gravado
+        /// Então, se 'b' é igual a 'a', logo ambos apontam ao mesmo valor na Heap.
+        /// Por isso ao se alterar 'b', altera-se ao mesmo tempo 'a'
+        /// </summary>
+        public void ReferenceType_Example2()
+        {
+            Pessoa a = new Pessoa();
+            a.Nome = "José";
+            Pessoa b = a;
+            b.Nome = "Maria";
+            Console.WriteLine("Nome: " + a.Nome);
+        }
     }
 }

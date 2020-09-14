@@ -13,6 +13,8 @@ namespace Exam_70_483
             valueAndReferenceType.ValueType_PrimitiveType();
 
             valueAndReferenceType.ValueType_Struct();
+
+            valueAndReferenceType.ReferenceType_Example2();
         }
     }
 }
