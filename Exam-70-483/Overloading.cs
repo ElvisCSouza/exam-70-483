@@ -9,11 +9,11 @@ namespace Exam_70_483
     /// </summary>
     public class OverloadingExample
     {
-        public void FazAlgo()
+        public void DoSomething()
         {
 
         }
-        public void FazAlgo(int a)
+        public void DoSomething(int a)
         {
 
         }

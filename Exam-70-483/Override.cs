@@ -9,7 +9,7 @@ namespace Exam_70_483
     /// </summary>
     public class OverrideExample
     {
-        public virtual void FazAlgo(int a)
+        public virtual void DoSomething(int a)
         {
 
         }
@@ -17,7 +17,7 @@ namespace Exam_70_483
 
     public class OverrideExampleChild : OverrideExample
     {
-        public override void FazAlgo(int a)
+        public override void DoSomething(int a)
         {
 
         }
