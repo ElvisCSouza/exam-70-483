@@ -17,4 +17,12 @@ namespace Exam_70_483
         }
     }
 
+    public struct StructConcreta : InterfaceContrato
+    {
+        public string DoSomething(int a)
+        {
+            return "";
+        }
+    }
+
 }
