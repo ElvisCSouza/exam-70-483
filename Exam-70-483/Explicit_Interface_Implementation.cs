@@ -11,20 +11,22 @@ namespace Exam_70_483
 
     public interface ISecond
     {
-        int DoSomething();
+        void DoSomething();
     }
 
     public class Explicit_Interface_Implementation : IFirst, ISecond
     {
-        public void IFirst.DoSomething()
+        public void DoSomething()
         {
             throw new NotImplementedException();
         }
 
-        public int ISecond.DoSomething()
+        void ISecond.DoSomething()
         {
             throw new NotImplementedException();
         }
+
+        
     }
 
     public class Use_Explicit_Interface_Implementation 
@@ -32,10 +34,8 @@ namespace Exam_70_483
        public void Test()
         {
             var test = new Explicit_Interface_Implementation();
-            test.DoSomething();
-
+            test.DoSomething(); //chamada do método publico
+            ((ISecond)test).DoSomething(); //chamada do método privado explicitamente implementado
         }
-
     }
-
 }

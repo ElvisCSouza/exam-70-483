@@ -6,15 +6,8 @@ namespace Exam_70_483
     {
         static void Main(string[] args)
         {
-            ValueAndReferenceType valueAndReferenceType = new ValueAndReferenceType();
-
-            valueAndReferenceType.ReferenceType();
-
-            valueAndReferenceType.ValueType_PrimitiveType();
-
-            valueAndReferenceType.ValueType_Struct();
-
-            valueAndReferenceType.ReferenceType_Example2();
+            MulticastDelegatesExample_Use teste = new MulticastDelegatesExample_Use();
+            teste.TestMethod();
         }
     }
 }

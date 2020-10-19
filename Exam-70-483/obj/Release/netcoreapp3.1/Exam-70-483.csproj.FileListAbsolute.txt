@@ -1,0 +1,13 @@
+C:\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Release\netcoreapp3.1\Exam-70-483.exe
+C:\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Release\netcoreapp3.1\Exam-70-483.deps.json
+C:\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Release\netcoreapp3.1\Exam-70-483.runtimeconfig.json
+C:\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Release\netcoreapp3.1\Exam-70-483.runtimeconfig.dev.json
+C:\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Release\netcoreapp3.1\Exam-70-483.dll
+C:\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Release\netcoreapp3.1\Exam-70-483.pdb
+C:\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\obj\Release\netcoreapp3.1\Exam-70-483.csprojAssemblyReference.cache
+C:\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\obj\Release\netcoreapp3.1\Exam-70-483.AssemblyInfoInputs.cache
+C:\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\obj\Release\netcoreapp3.1\Exam-70-483.AssemblyInfo.cs
+C:\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\obj\Release\netcoreapp3.1\Exam-70-483.csproj.CoreCompileInputs.cache
+C:\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\obj\Release\netcoreapp3.1\Exam-70-483.dll
+C:\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\obj\Release\netcoreapp3.1\Exam-70-483.pdb
+C:\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\obj\Release\netcoreapp3.1\Exam-70-483.genruntimeconfig.cache
