@@ -4,7 +4,16 @@ using System.Text;
 
 namespace Exam_70_483
 {
-    class CastAndConvertExamploes
+    public class CastAndConvertExamples
     {
+        public void Test()
+        {
+            int inteiro = 1;
+            decimal dinheiro = 5.5M;
+
+            dinheiro = inteiro;//Conversão implícita
+            inteiro = (int)dinheiro; //Conversão (cast) explícita
+
+        }
     }
 }
