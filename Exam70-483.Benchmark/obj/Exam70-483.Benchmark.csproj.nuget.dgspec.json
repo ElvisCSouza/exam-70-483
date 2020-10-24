@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\CertificacaoC#\\Exam-70-483\\Exam70-483.Benchmark\\Exam70-483.Benchmark.csproj": {}
+    "C:\\Users\\Diego\\Documents\\Diego\\Dev\\GitHub\\exam-70-483\\Exam70-483.Benchmark\\Exam70-483.Benchmark.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\CertificacaoC#\\Exam-70-483\\Exam70-483.Benchmark\\Exam70-483.Benchmark.csproj": {
+    "C:\\Users\\Diego\\Documents\\Diego\\Dev\\GitHub\\exam-70-483\\Exam70-483.Benchmark\\Exam70-483.Benchmark.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\CertificacaoC#\\Exam-70-483\\Exam70-483.Benchmark\\Exam70-483.Benchmark.csproj",
+        "projectUniqueName": "C:\\Users\\Diego\\Documents\\Diego\\Dev\\GitHub\\exam-70-483\\Exam70-483.Benchmark\\Exam70-483.Benchmark.csproj",
         "projectName": "Exam70-483.Benchmark",
-        "projectPath": "C:\\Projetos\\CertificacaoC#\\Exam-70-483\\Exam70-483.Benchmark\\Exam70-483.Benchmark.csproj",
-        "packagesPath": "C:\\Users\\Elvis\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\CertificacaoC#\\Exam-70-483\\Exam70-483.Benchmark\\obj\\",
+        "projectPath": "C:\\Users\\Diego\\Documents\\Diego\\Dev\\GitHub\\exam-70-483\\Exam70-483.Benchmark\\Exam70-483.Benchmark.csproj",
+        "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diego\\Documents\\Diego\\Dev\\GitHub\\exam-70-483\\Exam70-483.Benchmark\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Elvis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\Meus Documentos\\Nugets": {},
+          "C:\\Users\\Diego\\Documents\\Diego\\Dev\\GitHub\\PicPay\\nuspecs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,6 +45,10 @@
             "BenchmarkDotNet": {
               "target": "Package",
               "version": "[0.12.1, )"
+            },
+            "Bogus": {
+              "target": "Package",
+              "version": "[31.0.3, )"
             }
           },
           "imports": [
@@ -62,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
