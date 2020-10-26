@@ -6,8 +6,8 @@ namespace Exam_70_483
     {
         static void Main(string[] args)
         {
-            StaticConstructor_Use teste = new StaticConstructor_Use();
-            //teste.();
+            var test = new Event2Test();
+            test.Test();
         }
     }
 }
