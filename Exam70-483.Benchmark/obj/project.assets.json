@@ -37,6 +37,15 @@
           "lib/netstandard2.0/BenchmarkDotNet.Annotations.dll": {}
         }
       },
+      "Bogus/31.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Bogus.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Bogus.dll": {}
+        }
+      },
       "CommandLineParser/2.4.3": {
         "type": "package",
         "compile": {
@@ -1598,6 +1607,23 @@
         "lib/netstandard1.0/BenchmarkDotNet.Annotations.xml",
         "lib/netstandard2.0/BenchmarkDotNet.Annotations.dll",
         "lib/netstandard2.0/BenchmarkDotNet.Annotations.xml"
+      ]
+    },
+    "Bogus/31.0.3": {
+      "sha512": "CMVbZndfEihsd7A5GgdfMQTNiUzjTTng2IPoTe4J2cyxUaEqCW5M5HO8uGF/Qkq1NL219AbLHX+4dx9MxWDSiA==",
+      "type": "package",
+      "path": "bogus/31.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bogus.31.0.3.nupkg.sha512",
+        "bogus.nuspec",
+        "lib/net40/Bogus.dll",
+        "lib/net40/Bogus.xml",
+        "lib/netstandard1.3/Bogus.dll",
+        "lib/netstandard1.3/Bogus.xml",
+        "lib/netstandard2.0/Bogus.dll",
+        "lib/netstandard2.0/Bogus.xml"
       ]
     },
     "CommandLineParser/2.4.3": {
@@ -5309,7 +5335,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "BenchmarkDotNet >= 0.12.1"
+      "BenchmarkDotNet >= 0.12.1",
+      "Bogus >= 31.0.3"
     ]
   },
   "packageFolders": {
@@ -5357,6 +5384,10 @@
           "BenchmarkDotNet": {
             "target": "Package",
             "version": "[0.12.1, )"
+          },
+          "Bogus": {
+            "target": "Package",
+            "version": "[31.0.3, )"
           }
         },
         "imports": [
@@ -5377,5 +5408,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Projetos\\CertificacaoC#\\Exam-70-483\\Exam70-483.Benchmark\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

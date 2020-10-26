@@ -7,7 +7,7 @@ namespace Exam70_483.Benchmark
     {
         public static void Main(string[] args)
         {
-            var summary = BenchmarkRunner.Run<SingleLineJoin>();
+            var summary = BenchmarkRunner.Run<ListsVSArrayList>();
             Console.Read();
         }
     }

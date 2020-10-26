@@ -6,8 +6,8 @@ namespace Exam_70_483
     {
         static void Main(string[] args)
         {
-            MulticastDelegatesExample_Use teste = new MulticastDelegatesExample_Use();
-            teste.TestMethod();
+            StaticConstructor_Use teste = new StaticConstructor_Use();
+            //teste.();
         }
     }
 }

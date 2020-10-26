@@ -45,6 +45,10 @@
             "BenchmarkDotNet": {
               "target": "Package",
               "version": "[0.12.1, )"
+            },
+            "Bogus": {
+              "target": "Package",
+              "version": "[31.0.3, )"
             }
           },
           "imports": [

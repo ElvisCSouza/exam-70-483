@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v3.1": {
       "Exam70-483.Benchmark/1.0.0": {
         "dependencies": {
-          "BenchmarkDotNet": "0.12.1"
+          "BenchmarkDotNet": "0.12.1",
+          "Bogus": "31.0.3"
         },
         "runtime": {
           "Exam70-483.Benchmark.dll": {}
@@ -44,6 +45,14 @@
           "lib/netstandard2.0/BenchmarkDotNet.Annotations.dll": {
             "assemblyVersion": "0.12.1.0",
             "fileVersion": "0.12.1.0"
+          }
+        }
+      },
+      "Bogus/31.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Bogus.dll": {
+            "assemblyVersion": "31.0.3.0",
+            "fileVersion": "31.0.3.0"
           }
         }
       },
@@ -977,6 +986,13 @@
       "sha512": "sha512-NIVt8wrouNburnDzHtUa7H1lp4p/J3cLNY1zJK92l4aK2lEW8BxQrCNB6ybRLLOgGbSJvmy3vPWoviudipnL5Q==",
       "path": "benchmarkdotnet.annotations/0.12.1",
       "hashPath": "benchmarkdotnet.annotations.0.12.1.nupkg.sha512"
+    },
+    "Bogus/31.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CMVbZndfEihsd7A5GgdfMQTNiUzjTTng2IPoTe4J2cyxUaEqCW5M5HO8uGF/Qkq1NL219AbLHX+4dx9MxWDSiA==",
+      "path": "bogus/31.0.3",
+      "hashPath": "bogus.31.0.3.nupkg.sha512"
     },
     "CommandLineParser/2.4.3": {
       "type": "package",
