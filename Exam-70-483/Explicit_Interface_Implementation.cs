@@ -18,15 +18,13 @@ namespace Exam_70_483
     {
         public void DoSomething()
         {
-            throw new NotImplementedException();
+
         }
 
         void ISecond.DoSomething()
         {
-            throw new NotImplementedException();
-        }
 
-        
+        }
     }
 
     public class Use_Explicit_Interface_Implementation 
@@ -35,7 +33,7 @@ namespace Exam_70_483
         {
             var test = new Explicit_Interface_Implementation();
             test.DoSomething(); //chamada do método publico
-            ((ISecond)test).DoSomething(); //chamada do método privado explicitamente implementado
+            ((ISecond)test).DoSomething(); //chamada do método explicitamente implementado
         }
     }
 }

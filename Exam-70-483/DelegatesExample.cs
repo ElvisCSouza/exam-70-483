@@ -4,30 +4,40 @@ using System.Text;
 
 namespace Exam_70_483
 {
-    public class DelegatesExample
+    public static class DelegatesExample
     {
-        public int DoSomething(int x, int y)
+        public static int DoSomething(int x, string y)
         {
             return 0;
         }
 
-        public int DoAnotherThing(int a, int b)
+        public static int DoAnotherThing(int a, string b)
         {
             return 1;
+        }
+
+        public static bool DoIt(int a, string b)
+        {
+            return true;
+        }
+
+        public static int DoThat(int a)
+        {
+            return 2;
         }
     }
 
     public class DelegatesExemplo_Use
     {
-        public delegate int TipoDelegate(int var1, int var2);
-        public void TestMethod()
+        public delegate int TipoDelegate(int var1, string var2);
+        public void Test()
         {
-            var example = new DelegatesExample();
-            TipoDelegate del = example.DoSomething;
-            int resultado = del(1, 2);
+            TipoDelegate del;
+            del = DelegatesExample.DoSomething;
+            int resultado = del(1, "2");
             //um delegate pode ser usado para executar mais de um método
-            del = example.DoAnotherThing;
-            int resultado2 = del(3, 4);
+            del = DelegatesExample.DoAnotherThing;
+            int resultado2 = del(3, "4");
         }
     }
 }

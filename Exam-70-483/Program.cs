@@ -6,7 +6,7 @@ namespace Exam_70_483
     {
         static void Main(string[] args)
         {
-            var test = new Event2Test();
+            var test = new MulticastDelegatesExample_Use();
             test.Test();
         }
     }

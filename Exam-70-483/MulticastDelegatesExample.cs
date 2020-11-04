@@ -6,22 +6,26 @@ namespace Exam_70_483
 {
     public class MulticastDelegatesExample
     {
+        public List<string> Execucoes = new List<string>();
         public int Contador = 0;
         public int DoSomething(int x, int y)
         {
             Contador++;
+            Execucoes.Add("DoSomething");
             return 10;
         }
 
         public int DoAnotherThing(int a, int b)
         {
             Contador++;
-            return 1;
+            Execucoes.Add("DoAnotherThing");
+            return 5;
         }
 
         public int DoThat(int a, int b)
         {
             Contador++;
+            Execucoes.Add("DoThat");
             return 1;
         }
     }
@@ -29,7 +33,7 @@ namespace Exam_70_483
     public class MulticastDelegatesExample_Use
     {
         public delegate int TipoDelegate(int var1, int var2);
-        public void TestMethod()
+        public void Test()
         {
             var example = new MulticastDelegatesExample();
             TipoDelegate del = example.DoSomething;
@@ -44,7 +48,7 @@ namespace Exam_70_483
             del -= example.DoThat;
             del -= example.DoSomething;
 
-            //resultado será do último método executado (DoAnotherThing)
+            //resultado será do último método executado (DoSomething) que é 10
             int resultado = del(3, 4);
             //Contador será igual a 4, pois:
             //- "DoSomething" foi executado 2 vezes
