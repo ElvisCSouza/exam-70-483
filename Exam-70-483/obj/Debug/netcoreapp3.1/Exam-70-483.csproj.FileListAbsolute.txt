@@ -37,3 +37,16 @@ C:\Users\Diego\Documents\Diego\Dev\GitHub\exam-70-483\Exam-70-483\obj\Debug\netc
 C:\Users\Diego\Documents\Diego\Dev\GitHub\exam-70-483\Exam-70-483\obj\Debug\netcoreapp3.1\Exam-70-483.dll
 C:\Users\Diego\Documents\Diego\Dev\GitHub\exam-70-483\Exam-70-483\obj\Debug\netcoreapp3.1\Exam-70-483.pdb
 C:\Users\Diego\Documents\Diego\Dev\GitHub\exam-70-483\Exam-70-483\obj\Debug\netcoreapp3.1\Exam-70-483.genruntimeconfig.cache
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Debug\netcoreapp3.1\Exam-70-483.exe
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Debug\netcoreapp3.1\Exam-70-483.deps.json
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Debug\netcoreapp3.1\Exam-70-483.runtimeconfig.json
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Debug\netcoreapp3.1\Exam-70-483.runtimeconfig.dev.json
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Debug\netcoreapp3.1\Exam-70-483.dll
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Debug\netcoreapp3.1\Exam-70-483.pdb
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\obj\Debug\netcoreapp3.1\Exam-70-483.csprojAssemblyReference.cache
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\obj\Debug\netcoreapp3.1\Exam-70-483.AssemblyInfoInputs.cache
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\obj\Debug\netcoreapp3.1\Exam-70-483.AssemblyInfo.cs
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\obj\Debug\netcoreapp3.1\Exam-70-483.csproj.CoreCompileInputs.cache
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\obj\Debug\netcoreapp3.1\Exam-70-483.dll
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\obj\Debug\netcoreapp3.1\Exam-70-483.pdb
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\obj\Debug\netcoreapp3.1\Exam-70-483.genruntimeconfig.cache

@@ -1,4 +1,6 @@
 ﻿using Exam_70_483.Value_and_Reference_Type;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace Exam_70_483
 {
@@ -6,7 +8,7 @@ namespace Exam_70_483
     {
         static void Main(string[] args)
         {
-            var test = new MulticastDelegatesExample_Use();
+            var test = new AsyncAwaitExample();
             test.Test();
         }
     }

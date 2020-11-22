@@ -5340,23 +5340,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Elvis\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\elvis\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\CertificacaoC#\\Exam-70-483\\Exam70-483.Benchmark\\Exam70-483.Benchmark.csproj",
+      "projectUniqueName": "C:\\Códigos\\Projetos\\CertificacaoC#\\Exam-70-483\\Exam70-483.Benchmark\\Exam70-483.Benchmark.csproj",
       "projectName": "Exam70-483.Benchmark",
-      "projectPath": "C:\\Projetos\\CertificacaoC#\\Exam-70-483\\Exam70-483.Benchmark\\Exam70-483.Benchmark.csproj",
-      "packagesPath": "C:\\Users\\Elvis\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\CertificacaoC#\\Exam-70-483\\Exam70-483.Benchmark\\obj\\",
+      "projectPath": "C:\\Códigos\\Projetos\\CertificacaoC#\\Exam-70-483\\Exam70-483.Benchmark\\Exam70-483.Benchmark.csproj",
+      "packagesPath": "C:\\Users\\elvis\\.nuget\\packages\\",
+      "outputPath": "C:\\Códigos\\Projetos\\CertificacaoC#\\Exam-70-483\\Exam70-483.Benchmark\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Elvis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\elvis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5364,11 +5360,11 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "D:\\Meus Documentos\\Nugets": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -5380,6 +5376,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "BenchmarkDotNet": {
             "target": "Package",
@@ -5405,7 +5402,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

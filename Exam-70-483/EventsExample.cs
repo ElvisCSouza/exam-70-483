@@ -12,7 +12,7 @@ namespace Exam_70_483
         public void CheckSomething(bool valid)
         {
             if(!valid)
-                evento("Something is invalid!");
+                evento("Something is invalid!"); //Disparando o event
         }
     }
 
