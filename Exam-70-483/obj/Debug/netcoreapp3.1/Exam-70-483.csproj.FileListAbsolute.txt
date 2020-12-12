@@ -50,3 +50,17 @@ C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\obj\Debug\netcoreapp
 C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\obj\Debug\netcoreapp3.1\Exam-70-483.dll
 C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\obj\Debug\netcoreapp3.1\Exam-70-483.pdb
 C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\obj\Debug\netcoreapp3.1\Exam-70-483.genruntimeconfig.cache
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\obj\Debug\netcoreapp3.1\Exam-70-483.csproj.CopyComplete
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Debug\netcoreapp3.1\ExternalClassLibrary.dll
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Debug\netcoreapp3.1\ExternalClassLibrary.pdb
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Debug\netcoreapp3.1\ExternalClassLibrary2.dll
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\Exam-70-483\bin\Debug\netcoreapp3.1\ExternalClassLibrary2.pdb

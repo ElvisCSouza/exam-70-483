@@ -6,12 +6,13 @@ namespace Exam_70_483
 {
     public class EventDTO : EventArgs
     {
+        
         public decimal Price { get; set; }
         public bool Available { get; set; }
     }
     public class Event2Publisher
     {
-        public EventHandler eventoSemParametro;
+        public event EventHandler eventoSemParametro;
         public EventHandler<EventDTO> eventoComParametro;
 
         public void CheckSomething(bool valid)
@@ -44,13 +45,17 @@ namespace Exam_70_483
 
     public class Event2Test
     {
+        public void ShowCompleted()
+        {
+
+        }
         public void Test()
         {
             Event2Publisher publisher = new Event2Publisher();
 
             Event2Subscriber subscriber = new Event2Subscriber();
 
-            publisher.eventoSemParametro += subscriber.HandleTheEvent;
+            publisher.eventoSemParametro += (sender, e) => ShowCompleted();
             publisher.eventoComParametro += subscriber.HandleTheEventWithParameters;
 
             //O Handle será executado

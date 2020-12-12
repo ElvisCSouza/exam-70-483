@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wlJws/yhMx9dZbmFBfCRL4HesvmgHKi00w0m7ImQ4AbhS2EO5X8WzFREk4yYHSSdVd8LO0eqGgzmlpj7Vt7Dmw==",
+  "dgSpecHash": "QyUrWW7Sk5rx5VafMaDePl/4h6PBAFRLNAc6BKtt7HinfmhYRtzYzsmNuLPvsoYO1L2Q5opBvfKksueShmjqWw==",
   "success": true,
   "projectFilePath": "C:\\Códigos\\Projetos\\CertificacaoC#\\Exam-70-483\\Exam70-483.Benchmark\\Exam70-483.Benchmark.csproj",
   "expectedPackageFiles": [
@@ -98,7 +98,9 @@
     "C:\\Users\\elvis\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\elvis\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\elvis\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
-    "C:\\Users\\elvis\\.nuget\\packages\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\elvis\\.nuget\\packages\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\elvis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\elvis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }

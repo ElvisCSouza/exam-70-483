@@ -1,0 +1,9 @@
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\ExternalClassLibrary2\bin\Debug\netcoreapp3.1\ExternalClassLibrary2.deps.json
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\ExternalClassLibrary2\bin\Debug\netcoreapp3.1\ExternalClassLibrary2.dll
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\ExternalClassLibrary2\bin\Debug\netcoreapp3.1\ExternalClassLibrary2.pdb
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\ExternalClassLibrary2\obj\Debug\netcoreapp3.1\ExternalClassLibrary2.AssemblyInfoInputs.cache
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\ExternalClassLibrary2\obj\Debug\netcoreapp3.1\ExternalClassLibrary2.AssemblyInfo.cs
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\ExternalClassLibrary2\obj\Debug\netcoreapp3.1\ExternalClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\ExternalClassLibrary2\obj\Debug\netcoreapp3.1\ExternalClassLibrary2.dll
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\ExternalClassLibrary2\obj\Debug\netcoreapp3.1\ExternalClassLibrary2.pdb
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\ExternalClassLibrary2\obj\Debug\netcoreapp3.1\ExternalClassLibrary2.csprojAssemblyReference.cache

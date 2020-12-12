@@ -1,0 +1,12 @@
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\ExternalClassLibrary\bin\Debug\netcoreapp3.1\ExternalClassLibrary.deps.json
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\ExternalClassLibrary\bin\Debug\netcoreapp3.1\ExternalClassLibrary.dll
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\ExternalClassLibrary\bin\Debug\netcoreapp3.1\ExternalClassLibrary.pdb
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\ExternalClassLibrary\obj\Debug\netcoreapp3.1\ExternalClassLibrary.csprojAssemblyReference.cache
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\ExternalClassLibrary\obj\Debug\netcoreapp3.1\ExternalClassLibrary.AssemblyInfoInputs.cache
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\ExternalClassLibrary\obj\Debug\netcoreapp3.1\ExternalClassLibrary.AssemblyInfo.cs
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\ExternalClassLibrary\obj\Debug\netcoreapp3.1\ExternalClassLibrary.csproj.CoreCompileInputs.cache
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\ExternalClassLibrary\obj\Debug\netcoreapp3.1\ExternalClassLibrary.dll
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\ExternalClassLibrary\obj\Debug\netcoreapp3.1\ExternalClassLibrary.pdb
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\ExternalClassLibrary\bin\Debug\netcoreapp3.1\ExternalClassLibrary2.dll
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\ExternalClassLibrary\bin\Debug\netcoreapp3.1\ExternalClassLibrary2.pdb
+C:\Códigos\Projetos\CertificacaoC#\Exam-70-483\ExternalClassLibrary\obj\Debug\netcoreapp3.1\ExternalClassLibrary.csproj.CopyComplete

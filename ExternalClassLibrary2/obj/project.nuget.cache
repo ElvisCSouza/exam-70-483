@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3vuoDptud1MKuMTW363X474NXNUqQYaa3aAcStWV+XNGc+IGxdkkX+hTOfTJz9orLCISJFeEXux5bOC7mS9IVg==",
+  "success": true,
+  "projectFilePath": "C:\\Códigos\\Projetos\\CertificacaoC#\\Exam-70-483\\ExternalClassLibrary2\\ExternalClassLibrary2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elvis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

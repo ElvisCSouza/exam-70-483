@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExternalClassLibrary/1.0.0": {
+        "dependencies": {
+          "ExternalClassLibrary2": "1.0.0"
+        },
+        "runtime": {
+          "ExternalClassLibrary.dll": {}
+        }
+      },
+      "ExternalClassLibrary2/1.0.0": {
+        "runtime": {
+          "ExternalClassLibrary2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExternalClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExternalClassLibrary2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
