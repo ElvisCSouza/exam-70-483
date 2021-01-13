@@ -55,6 +55,13 @@ namespace Exam_70_483
         {
             VariavelPrivada1 = variavelPrivada1;
         }
+
+        public ExamplePropertyAttribute(string variavelPublica1, string variavelPrivada1, string variavelPublica2)
+        {
+            VariavelPublica1 = variavelPublica1;
+            VariavelPrivada1 = variavelPrivada1;
+            VariavelPublica2 = variavelPublica2;
+        }
     }
 
     [Example("1", VariavelPublica1 = "p1")]
@@ -62,6 +69,8 @@ namespace Exam_70_483
     {
         [ExampleProperty("1", "2", VariavelPublica1 = "a", VariavelPublica2 = "ab")]
         public int MyProperty { get; set; }
+        //[ExampleProperty("1", "3", "3")]
+        public string Teste;
     }
 
     [Example("1", "2", VariavelPublica2 = "ab")]

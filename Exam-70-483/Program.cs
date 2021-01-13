@@ -40,6 +40,9 @@ namespace Exam_70_483
 
         static void Main(string[] args)
         {
+
+            new AcessarCell().Teste();
+
             var assembly1 = Assembly.GetAssembly(typeof(ExternalClass));
             var assembly2 = Assembly.GetEntryAssembly();
             var assembly3 = Assembly.GetExecutingAssembly();
